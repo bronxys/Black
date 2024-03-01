@@ -1,7 +1,7 @@
 {
   "crtt": "𝐉𝐎𝐆𝐎 𝐃𝐀 𝐕𝐄𝐋𝐇𝐀",
   "forwarding": false,
-  "banChats": true,
+  "banChats": false,
   "menu_audio": true,
   "verificado": false,
   "consoleoff": true,
