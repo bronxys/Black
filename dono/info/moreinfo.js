@@ -60,29 +60,3 @@ Boa sorte.
 };
 
 exports.anotacao = anotacao;
-
-const alugueltxt = (prefix) => {
-return `*_»⟩Tabela de preços para alugar o bot ⟨«_*
-
-1️⃣⧽ R$ 5.00 (15 dias)
-2️⃣⧽ R$ 10.00 (30 dias)
-3️⃣⧽ R$ 18.00 (60 dias)
-4️⃣⧽ R$ 27.00 (90 dias)
-5️⃣⧽ R$ 35.00 (120 dias)
-
-❪🍧ฺ࣭࣪͘ꕸ▸ _digite *${prefix}dono* para alugar e *${prefix}inforent* caso queira obter mais informações_`
-}
-
-exports.alugueltxt = alugueltxt;
-
-const inforent = (prefix) => {
-return `*Olá caro viajante, está perdido de como alugar o Black ?? Ett vou lhe dar uma rápida dica.* 🧐
-  
-*Como visto na tabela acima, tem os preços de aluguel mensal... O preço diminui dependendo da quantidade de meses; porém o preço é unitário por grupo.* 😃
-
-*Por exemplo, se alugar dois grupos por 1 mês, vai ser 10+10 = 20$. Ou se alugar dois grupos por dois meses, será 18+18 = 36$.* 💵
-
-*Caso você queira alugar o bot ou queira mais informações, chame meu ${prefix}dono no PV* 👑`
-}
-
-exports.inforent = inforent;

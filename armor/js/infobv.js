@@ -1,104 +1,77 @@
-const infobemvindo = (prefix) => {
-return `
+const infobemvindo = (prefix, pushname) => {
+return `Oi ${pushname}, está perdido em como montar seu bem vindo? Chega mais então.
 
-Olá, este comando é para informar, como você deve ativar o bem vindo, e lembrando, esse bemvindo, contém uma legenda diferente, a cada grupo que for colocado, o bemvindo2 tem essa função também. 
+O primeiro passo é ativar a função, usando ${prefix}bemvindo 1... Caso queira desativar, use ${prefix}bemvindo 0
+
+Sendo assim, temos 5 tipos de bem vindo, dos quais datados abaixo:
+
+• ${prefix}bemvindo 1 (envio de foto)
+• ${prefix}bemvindo2 1 (envio de texto)
+• ${prefix}bemvindo3 1 (envio de figurinha)
+• ${prefix}bemvindo4 1 (envio de áudio)
+• ${prefix}bemvindo5 1 (envio de vídeo)
+_(pra desativar, só usar "0" em vez de "1")_
+
+Para definir a legenda do bem vindo, basta usar ${prefix}legendabv e escrever a sua mensagem... Cada bem vindo tem seu comando próprio de legenda:
+
+• ${prefix}legendabv (bemvindo)
+• ${prefix}legendabv2 (bemvindo2)
+• ${prefix}stickerbv (bemvindo3)
+• ${prefix}audiobv (bemvindo4)
+• ${prefix}legendabv5 (bemvindo5)
+
+Caso queira definir a legenda de saída, segue o msm comando acima, com uma sutil diferença... Basta mudar o "bv" para "saiu", ex: O que era "${prefix}legendabv2" vira "${prefix}legendasaiu2"
+
+E para montar qualquer legenda, existem alguns códigos que você pode usar, como os descritos abaixo:
+
+• #tempo# = vai puxar o saudação do horário (ex: bom dia)
+
+• #hora# = vai puxar a hora atual
+
+• #nomedogp# = vai puxar o nome do grupo
+
+• #numerodele# = vai puxar o @ do usuário que entrou/saiu
+
+• #nomedele# = vai puxar o nome do usuário que entrou/saiu
+
+• #wame# = vai puxar o número em wa.me do usuário que entrou/saiu
+
+• #numero# = vai puxar o número por escrito do usuário que entrou/saiu (ex: +55 11...)
+
+• #status# = vai puxar a bio do wpp do usuário que entrou/saiu
+
+• #numerobot# = vai puxar o @ do bot
+
+• #nomebot# = vai puxar o nome do bot
+
+• #nickdono# = vai puxar o nick do dono do bot
+
+• #prefixo# = vai puxar o prefixo do bot
+
+• #estado# = vai puxar o estado do Brasil do usuário que entrou/saiu
+
+• #descrição# = vai puxar a descrição do grupo
 
 
-(ATENÇÃO - BEMVINDO2 NÃO TEM FOTO, SÓ LEGENDA. 
-E É IGUAL O PROCEDIMENTO, SÓ MUDAR DE ${prefix}bemvindo pra ${prefix}bemvindo2 e os outros a mesma coisa, legendabv2 legendasaiu2, é isso... )
 
-Pará ativar o comando, é nescessario ativar, com:
+Aqui embaixo farei um exemplo pra vc ${pushname}:
 
-${prefix}bemvindo 1 
-
-Pará Desativar :
-
-${prefix}bemvindo 0
-
-
-Pronto. 
-
-Pará criar a legenda você deve digitar este comando :
-
-${prefix}legendabv e colocar a legenda que você quer que o bot envie, após alguém entrar no grupo, e tem essas coisas. 
-
-#nomedogp#
-
-#numerobot#
-
-#numerodele#
-
-#prefixo#
+${"-".repeat(60)}
+${prefix}legendabv _#tempo# *#numerodele#,* seja bem vindo ao grupo #nomedogp#_
 
 #descrição#
+${"-".repeat(60)}
 
 
+Bom, basicamente é isso... Boa sorte aí kkkkk
 
+${"-".repeat(60)}
 
-Se eu fazer uma legenda assim, por exemplo: 
+*CRÉDITOS DO BEM VINDO:*
 
-${prefix}legendabv Olá seja bem vindo(a) ao grupo : #numerodele# 
+*Criado por:* Black Bot (matheuzinho)
 
-Grupo: #nomedogp#
-
-Prefixo do bot : #prefixo#
-
-Leia as regras : 
-
-#descrição#
-
-
-E também tem esse:
-
-${prefix}legendasaiu e digita oq quer, por exemplo, Adeus.
-
-mas não recomendo colocar legenda, é bom que só vem o bemvindo kkkk, vai aparecer que a legenda N foi definida kkkk
-
-
-Pronto, se eu envio assim, no grupo que estou, toda vez que alguém entrar, sera enviado isso, o que você definiu ali 
-
-#numerodele# = vai aparecer o numero dele, com essa definição. 
-
-#nomedogp# = vai aparecer o nome do grupo com essa definição. 
-
-#prefixo# = vai aparecer qual o símbolo que você está utilizando no bot, pra fazer ele funcionar.
-
-#descrição# = vai aparecer a descrição do grupo todo. 
-
-
-
-Pra trocar o fundo da imagem do bemvindo, é só mandar uma foto no WhatsApp, retangular e marcar ela com o comando :
-
-${prefix}fundobemvindo 
-
-Ou se quer trocar a do saiu 
-
-${prefix}fundosaiu 
-
-Só marcar uma foto e pronto, com o comando. 
-
-Vale pra a foto do menu também. 
-
-${prefix}fotomenu só marcar uma foto, que já é trocado.
-
-
-
-
-É isso galera, buenas suerte ae.
-
-
-
-
-
-----------------------------
-CRÉDITOS DO BEM VINDO : 
-
-Brizas-Bot = Ian.
-
-
-Assinado: Aleatory Bot. 
-
------------------------------
+${"-".repeat(60)}
 `
 }
 

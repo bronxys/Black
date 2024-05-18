@@ -11,7 +11,9 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡💝 ${prefix}sfundo (marcar foto)
  | ೈ፝͜͡💝 ${prefix}fblack (marcar figu)
  | ೈ፝͜͡💝 ${prefix}roubar (marcar figu)
- | ೈ፝͜͡💝 ${prefix}wpp (texto)
+ | ೈ፝͜͡💝 ${prefix}qc (texto)
+ | ೈ፝͜͡💝 ${prefix}amongsticker
+ | ೈ፝͜͡💝 ${prefix}ususticker
  | ೈ፝͜͡💝 ${prefix}attp
  | ೈ፝͜͡💝 ${prefix}attp2
  | ೈ፝͜͡💝 ${prefix}attp3
@@ -19,6 +21,8 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡💝 ${prefix}attp5
  | ೈ፝͜͡💝 ${prefix}attp6
  | ೈ፝͜͡💝 ${prefix}ttp
+ | ೈ፝͜͡💝 ${prefix}rgpf
+ | ೈ፝͜͡💝 ${prefix}rgaf
  | ೈ፝͜͡💝 ${prefix}figurinhas
  | ೈ፝͜͡💝 ${prefix}figurinhas2
  | ೈ፝͜͡💝 ${prefix}figemoji

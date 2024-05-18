@@ -13,9 +13,13 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🤑 ${prefix}ativo
  | ೈ፝͜͡🤑 ${prefix}delete
  | ೈ፝͜͡🤑 ${prefix}dam (apaga a sua msg tbm)
+ | ೈ፝͜͡🤑 ${prefix}rgpf
+ | ೈ፝͜͡🤑 ${prefix}rgaf
  | ೈ፝͜͡🤑 ${prefix}lerfoto
+ | ೈ፝͜͡🤑 ${prefix}getpp
  | ೈ፝͜͡🤑 ${prefix}igstalk
  | ೈ፝͜͡🤑 ${prefix}mediafire
+ | ೈ፝͜͡🤑 ${prefix}mediafire2
  | ೈ፝͜͡🤑 ${prefix}s2 (figu sem legenda)
  | ೈ፝͜͡🤑 ${prefix}gpt (Lucas, no PV)
  | ೈ፝͜͡🤑 ${prefix}Katy (no PV)
@@ -30,39 +34,16 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🤑 ${prefix}nome4
  | ೈ፝͜͡🤑 ${prefix}tel
  | ೈ፝͜͡🤑 ${prefix}tel2
- | ೈ፝͜͡🤑 ${prefix}telfixo
  | ೈ፝͜͡🤑 ${prefix}cpf
  | ೈ፝͜͡🤑 ${prefix}cpf2
- | ೈ፝͜͡🤑 ${prefix}cpf3
- | ೈ፝͜͡🤑 ${prefix}cpf4
- | ೈ፝͜͡🤑 ${prefix}cpf5
  | ೈ፝͜͡🤑 ${prefix}placa
- | ೈ፝͜͡🤑 ${prefix}placa2
  | ೈ፝͜͡🤑 ${prefix}bin
- | ೈ፝͜͡🤑 ${prefix}site
- | ೈ፝͜͡🤑 ${prefix}ip
  | ೈ፝͜͡🤑 ${prefix}cep
- | ೈ፝͜͡🤑 ${prefix}vizinhos
  | ೈ፝͜͡🤑 ${prefix}cnpj
  | ೈ፝͜͡🤑 ${prefix}score
- | ೈ፝͜͡🤑 ${prefix}titulo
  | ೈ፝͜͡🤑 ${prefix}email
- | ೈ፝͜͡🤑 ${prefix}vacina
- | ೈ፝͜͡🤑 ${prefix}parentes
  | ೈ፝͜͡🤑 ${prefix}rg
- | ೈ፝͜͡🤑 ${prefix}rg2
- | ೈ፝͜͡🤑 ${prefix}senha
- | ೈ፝͜͡🤑 ${prefix}mae
- | ೈ፝͜͡🤑 ${prefix}pai
  | ೈ፝͜͡🤑 ${prefix}chassi
- | ೈ፝͜͡🤑 ${prefix}motor
- | ೈ፝͜͡🤑 ${prefix}beneficios
- | ೈ፝͜͡🤑 ${prefix}impostos
- | ೈ፝͜͡🤑 ${prefix}nascimento
- | ೈ፝͜͡🤑 ${prefix}cns
- | ೈ፝͜͡🤑 ${prefix}cns2
- | ೈ፝͜͡🤑 ${prefix}correios
- | ೈ፝͜͡🤑 ${prefix}dominio
 ╰════════════════════╮`
 }
 

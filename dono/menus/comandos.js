@@ -33,6 +33,7 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡📋 ${prefix}infovip
  | ೈ፝͜͡📋 ${prefix}inforoleta
  | ೈ፝͜͡📋 ${prefix}infomute
+ | ೈ፝͜͡📋 ${prefix}infomsg
  | ೈ፝͜͡📋 ${prefix}Infomultiprefixo
  | ೈ፝͜͡📋 ${prefix}Infobemvindo
  | ೈ፝͜͡📋 ${prefix}Infopalavrão

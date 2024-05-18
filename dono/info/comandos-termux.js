@@ -31,8 +31,7 @@ E permite.
 *_Após configurado, vamos pra instalação (caso você não tenha o arquivo, instale o mesmo no site do bot: https://blackmd.online/docs ):_*
 
 6.
-cd /sdcard/BLACKV4
-
+cd /sdcard/Download/BLACKOFC
 7.
 sh blackmd.sh
 `

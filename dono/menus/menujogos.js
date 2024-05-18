@@ -15,11 +15,14 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🎮 ${prefix}eununca
  | ೈ፝͜͡🎮 ${prefix}vdddsf
  | ೈ፝͜͡🎮 ${prefix}forca
- | ೈ፝͜͡🎮 ${prefix}resetarforca
+ | ೈ፝͜͡🎮 ${prefix}rfc
+ | ೈ፝͜͡🎮 ${prefix}campominado @
+ | ೈ፝͜͡🎮 ${prefix}resetmina
  | ೈ፝͜͡🎮 ${prefix}cassino
  | ೈ፝͜͡🎮 ${prefix}ppt
  | ೈ፝͜͡🎮 ${prefix}dado
  | ೈ፝͜͡🎮 ${prefix}caraoucoroa
+ | ೈ፝͜͡🎮 ${prefix}adivinharnmr
 ╰════════════════════╮`
 }
 

@@ -15,9 +15,11 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡❤️‍🔥 ${prefix}tinderbio
  | ೈ፝͜͡❤️‍🔥 ${prefix}tinderfoto
  | ೈ፝͜͡❤️‍🔥 ${prefix}sairtinder
+ | ೈ፝͜͡❤️‍🔥 ${prefix}namoracomigo @
+ | ೈ፝͜͡❤️‍🔥 ${prefix}terminar
  | ೈ፝͜͡❤️‍🔥 ${prefix}casacomigo @
- | ೈ፝͜͡❤️‍🔥 ${prefix}cancelar (cancela o pedido de casamento)
  | ೈ፝͜͡❤️‍🔥 ${prefix}divorciar
+ | ೈ፝͜͡❤️‍🔥 ${prefix}cancelar (cancela o pedido de namoro e/ou casamento)
 ╰═══════════════════╮`
 }
 

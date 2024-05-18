@@ -8,6 +8,8 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🎗️${prefix}band (marca msg)
  | ೈ፝͜͡🎗️${prefix}vasco (marca msg)
  | ೈ፝͜͡🎗️${prefix}kick @
+ | ೈ፝͜͡🎗️${prefix}adv
+ | ೈ፝͜͡🎗️${prefix}rmadv
  | ೈ፝͜͡🎗️${prefix}listanegra (número ou msg)
  | ೈ፝͜͡🎗️${prefix}tirardalista (número)
  | ೈ፝͜͡🎗️${prefix}listban
@@ -33,17 +35,20 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🎗️${prefix}atividades
  | ೈ፝͜͡🎗️${prefix}criartabela
  | ೈ፝͜͡🎗️${prefix}tabelagp
- | ೈ፝͜͡🎗️${prefix}infogp
  | ೈ፝͜͡🎗️${prefix}listfake
  | ೈ፝͜͡🎗️${prefix}grupo a/f
  | ೈ፝͜͡🎗️${prefix}fechargp
  | ೈ፝͜͡🎗️${prefix}abrirgp
- | ೈ፝͜͡🎗️${prefix}bemvindo
  | ೈ፝͜͡🎗️${prefix}legendabv
  | ೈ፝͜͡🎗️${prefix}legendasaiu
- | ೈ፝͜͡🎗️${prefix}bemvindo2
  | ೈ፝͜͡🎗️${prefix}legendabv2
- | ೈ፝͜͡🎗️${prefix}legendasaiu2 
+ | ೈ፝͜͡🎗️${prefix}legendasaiu2
+ | ೈ፝͜͡🎗️${prefix}stickerbv
+ | ೈ፝͜͡🎗️${prefix}stickersaiu
+ | ೈ፝͜͡🎗️${prefix}audiobv
+ | ೈ፝͜͡🎗️${prefix}audiosaiu
+ | ೈ፝͜͡🎗️${prefix}legendabv5
+ | ೈ፝͜͡🎗️${prefix}legendasaiu5
  | ೈ፝͜͡🎗️${prefix}fotogp
  | ೈ፝͜͡🎗️${prefix}descgp
  | ೈ፝͜͡🎗️${prefix}nomegp
@@ -59,16 +64,22 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🎗️${prefix}antidoc 1/0
  | ೈ፝͜͡🎗️${prefix}antiloc 1/0
  | ೈ፝͜͡🎗️${prefix}antilinkhard 1/0
+ | ೈ፝͜͡🎗️${prefix}banlinkhard 1/0
  | ೈ፝͜͡🎗️${prefix}antilinkgp 1/0
+ | ೈ፝͜͡🎗️${prefix}banlinkgp 1/0
  | ೈ፝͜͡🎗️${prefix}antifake 1/0
  | ೈ፝͜͡🎗️${prefix}anticatalogo 1/0
  | ೈ፝͜͡🎗️${prefix}antipalavrao 1/0
  | ೈ፝͜͡🎗️${prefix}limiteflood 1/0
  | ೈ፝͜͡🎗️${prefix}bemvindo 1/0
  | ೈ፝͜͡🎗️${prefix}bemvindo2 1/0
+ | ೈ፝͜͡🎗️${prefix}bemvindo3 1/0
+ | ೈ፝͜͡🎗️${prefix}bemvindo4 1/0
+ | ೈ፝͜͡🎗️${prefix}bemvindo5 1/0
  | ೈ፝͜͡🎗️${prefix}autosticker 1/0
  | ೈ፝͜͡🎗️${prefix}autoresposta 1/0
  | ೈ፝͜͡🎗️${prefix}modozoeira 1/0
+ | ೈ፝͜͡🎗️${prefix}modorpg 1/0
  | ೈ፝͜͡🎗️${prefix}modonsfw 1/0
  | ೈ፝͜͡🎗️${prefix}leveling 1/0
 ╰════════════════════╮`

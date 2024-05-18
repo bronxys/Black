@@ -6,16 +6,36 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
 ╭════════════════════╯
  | ೈ፝͜͡🔱 ${prefix}bangp
  | ೈ፝͜͡🔱 ${prefix}unbangp
+ | ೈ፝͜͡🔱 ${prefix}setpgp
+ | ೈ፝͜͡🔱 ${prefix}setcofc
  | ೈ፝͜͡🔱 ${prefix}join (entrar no grupo)
  | ೈ፝͜͡🔱 ${prefix}sair (sair do grupo)
  | ೈ፝͜͡🔱 ${prefix}sairdogp
  | ೈ፝͜͡🔱 ${prefix}fotomenu
  | ೈ፝͜͡🔱 ${prefix}logomenu
+ | ೈ፝͜͡🔱 ${prefix}fundomenu
+ | ೈ፝͜͡🔱 ${prefix}fundoping
  | ೈ፝͜͡🔱 ${prefix}fotobot
  | ೈ፝͜͡🔱 ${prefix}nick-dono 
  | ೈ፝͜͡🔱 ${prefix}nome-bot 
  | ೈ፝͜͡🔱 ${prefix}clonar (marcar foto)
  | ೈ፝͜͡🔱 ${prefix}setprefix
+ | ೈ፝͜͡🔱 ${prefix}addads
+ | ೈ፝͜͡🔱 ${prefix}setads
+ | ೈ፝͜͡🔱 ${prefix}addadsimg
+ | ೈ፝͜͡🔱 ${prefix}rmads
+ | ೈ፝͜͡🔱 ${prefix}listads
+ | ೈ፝͜͡🔱 ${prefix}addmsg
+ | ೈ፝͜͡🔱 ${prefix}rmmsg
+ | ೈ፝͜͡🔱 ${prefix}listmsg
+ | ೈ፝͜͡🔱 ${prefix}addrandom
+ | ೈ፝͜͡🔱 ${prefix}envrandom
+ | ೈ፝͜͡🔱 ${prefix}envglobal
+ | ೈ፝͜͡🔱 ${prefix}delrandom
+ | ೈ፝͜͡🔱 ${prefix}rmrandom
+ | ೈ፝͜͡🔱 ${prefix}rmglobal
+ | ೈ፝͜͡🔱 ${prefix}rgtm
+ | ೈ፝͜͡🔱 ${prefix}deltm
  | ೈ፝͜͡🔱 ${prefix}tm (transmissão global)
  | ೈ፝͜͡🔱 ${prefix}nuke (arquivar grupo)
  | ೈ፝͜͡🔱 ${prefix}blockcmd
@@ -29,6 +49,8 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🔱 ${prefix}servip
  | ೈ፝͜͡🔱 ${prefix}addvip
  | ೈ፝͜͡🔱 ${prefix}delvip
+ | ೈ፝͜͡🔱 ${prefix}addvipgp
+ | ೈ፝͜͡🔱 ${prefix}delvipgp
  | ೈ፝͜͡🔱 ${prefix}idgp
  | ೈ፝͜͡🔱 ${prefix}listagp
  | ೈ፝͜͡🔱 ${prefix}linkdogp
@@ -36,6 +58,10 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🔱 ${prefix}addrent
  | ೈ፝͜͡🔱 ${prefix}delrent
  | ೈ፝͜͡🔱 ${prefix}listrent
+ | ೈ፝͜͡🔱 ${prefix}gerarkeygp
+ | ೈ፝͜͡🔱 ${prefix}gerarkeyvip
+ | ೈ፝͜͡🔱 ${prefix}gerarkeyvipgp
+ | ೈ፝͜͡🔱 ${prefix}gerarkeycard
  | ೈ፝͜͡🔱 ${prefix}envmsg
  | ೈ፝͜͡🔱 ${prefix}msgpv
  | ೈ፝͜͡🔱 ${prefix}ausente
@@ -44,7 +70,6 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🔱 ${prefix}autobang
  | ೈ፝͜͡🔱 ${prefix}delautobang
  | ೈ፝͜͡🔱 ${prefix}globalblocklist
- | ೈ፝͜͡🔱 ${prefix}s2
  | ೈ፝͜͡🔱 ${prefix}multiprefixo
  | ೈ፝͜͡🔱 ${prefix}addprefixo
  | ೈ፝͜͡🔱 ${prefix}delprefixo
@@ -53,6 +78,10 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
  | ೈ፝͜͡🔱 ${prefix}tirarxp
  | ೈ፝͜͡🔱 ${prefix}addlevel
  | ೈ፝͜͡🔱 ${prefix}tirarlevel
+ | ೈ፝͜͡🔱 ${prefix}rmlevel
+ | ೈ፝͜͡🔱 ${prefix}trfrlv
+ | ೈ፝͜͡🔱 ${prefix}delcntd
+ | ೈ፝͜͡🔱 ${prefix}trfrmsg
  | ೈ፝͜͡🔱 ${prefix}visualizarmsg
  | ೈ፝͜͡🔱 ${prefix}console
  | ೈ፝͜͡🔱 ${prefix}gitbot

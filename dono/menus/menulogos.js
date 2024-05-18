@@ -2,98 +2,219 @@ const menulogos = (sender, prefix) => {
 return `༒W̷E̷L̷C̷O̷M̷E̷༒
 ⇒ @${sender.split("@")[0]}
 
-『 𝐓𝐄𝐗𝐓𝐎 𝐈𝐈 』
+『 𝐓𝐄𝐗𝐓𝐎 𝐈𝐈𝐈 』
 ╭════════════════════╯
- | ೈ፝͜͡📜 ${prefix}marvel (txt/txt)
- | ೈ፝͜͡📜 ${prefix}pornhub (txt/txt)
- | ೈ፝͜͡📜 ${prefix}space (txt/txt)
- | ೈ፝͜͡📜 ${prefix}stone (txt/txt)
- | ೈ፝͜͡📜 ${prefix}steel (txt/txt)
- | ೈ፝͜͡📜 ${prefix}grafity (txt/txt)
- | ೈ፝͜͡📜 ${prefix}glitch3 (txt/txt)
- | ೈ፝͜͡📜 ${prefix}america (txt/txt)
- ╰════════════════════╮
- 『 𝐓𝐄𝐗𝐓𝐎 𝐈 』
- ╭════════════════════╯
- | ೈ፝͜͡📜 ${prefix}shadow (txt)
- | ೈ፝͜͡📜 ${prefix}metalgold (txt)
- | ೈ፝͜͡📜 ${prefix}cup (txt)
- | ೈ፝͜͡📜 ${prefix}txtborboleta (txt)
- | ೈ፝͜͡📜 ${prefix}cemiterio (txt)
- | ೈ፝͜͡📜 ${prefix}efeitoneon (txt)
- | ೈ፝͜͡📜 ${prefix}harryp (txt)
- | ೈ፝͜͡📜 ${prefix}lobometal (txt)
- | ೈ፝͜͡📜 ${prefix}neon2 (txt)
- | ೈ፝͜͡📜 ${prefix}madeira (txt)
- | ೈ፝͜͡📜 ${prefix}coffecup (txt)
- | ೈ፝͜͡📜 ${prefix}coffecup2 (txt)
- | ೈ፝͜͡📜 ${prefix}florwooden (txt)
- | ೈ፝͜͡📜 ${prefix}narutologo (txt)
- | ೈ፝͜͡📜 ${prefix}fire (txt)
- | ೈ፝͜͡📜 ${prefix}romantic (txt)
- | ೈ፝͜͡📜 ${prefix}smoke (txt)
- | ೈ፝͜͡📜 ${prefix}papel (txt)
- | ೈ፝͜͡📜 ${prefix}lovemsg (txt)
- | ೈ፝͜͡📜 ${prefix}lovemsg2 (txt)
- | ೈ፝͜͡📜 ${prefix}lovemsg3 (txt)
- | ೈ፝͜͡📜 ${prefix}fiction (txt)
- | ೈ፝͜͡📜 ${prefix}3dstone (txt)
- | ೈ፝͜͡📜 ${prefix}areia (txt)
- | ೈ፝͜͡📜 ${prefix}style (txt)
- | ೈ፝͜͡📜 ${prefix}blood (txt)
- | ೈ፝͜͡📜 ${prefix}pink (txt)
- | ೈ፝͜͡📜 ${prefix}cattxt (txt)
- | ೈ፝͜͡📜 ${prefix}neondevil (txt)
- | ೈ፝͜͡📜 ${prefix}carbon (txt)
- | ೈ፝͜͡📜 ${prefix}metalfire (txt)
- | ೈ፝͜͡📜 ${prefix}thunder (txt)
- | ೈ፝͜͡📜 ${prefix}vidro (txt)
- | ೈ፝͜͡📜 ${prefix}jokerlogo (txt)
- | ೈ፝͜͡📜 ${prefix}transformer (txt)
- | ೈ፝͜͡📜 ${prefix}demonfire (txt)
- | ೈ፝͜͡📜 ${prefix}jeans (txt)
- | ೈ፝͜͡📜 ${prefix}metalblue (txt)
- | ೈ፝͜͡📜 ${prefix}natal (txt)
- | ೈ፝͜͡📜 ${prefix}ossos (txt)
- | ೈ፝͜͡📜 ${prefix}asfalto (txt)
- | ೈ፝͜͡📜 ${prefix}break (txt)
- | ೈ፝͜͡📜 ${prefix}glitch2 (txt)
- | ೈ፝͜͡📜 ${prefix}colaq (txt)
- | ೈ፝͜͡📜 ${prefix}neon3 (txt)
- | ೈ፝͜͡📜 ${prefix}nuvem (txt)
- | ೈ፝͜͡📜 ${prefix}horror (txt)
- | ೈ፝͜͡📜 ${prefix}matrix (txt)
- | ೈ፝͜͡📜 ${prefix}berry (txt)
- | ೈ፝͜͡📜 ${prefix}luxury (txt)
- | ೈ፝͜͡📜 ${prefix}lava (txt)
- | ೈ፝͜͡📜 ${prefix}thunderv2 (txt)
- | ೈ፝͜͡📜 ${prefix}neongreen (txt)
- | ೈ፝͜͡📜 ${prefix}neve (txt)
- | ೈ፝͜͡📜 ${prefix}neon (txt)
- | ೈ፝͜͡📜 ${prefix}neon1 (txt)
- | ೈ፝͜͡📜 ${prefix}neon3d (txt)
- | ೈ፝͜͡📜 ${prefix}gelo (txt)
- | ೈ፝͜͡📜 ${prefix}neon3 (txt)
- | ೈ፝͜͡📜 ${prefix}3dgold (txt)
- | ೈ፝͜͡📜 ${prefix}lapis (txt)
- | ೈ፝͜͡📜 ${prefix}toxic (txt)
- | ೈ፝͜͡📜 ${prefix}demongreen (txt)
- | ೈ፝͜͡📜 ${prefix}rainbow (txt)
- | ೈ፝͜͡📜 ${prefix}halloween (txt)
- | ೈ፝͜͡📜 ${prefix}angelwing (txt)
- | ೈ፝͜͡📜 ${prefix}hackneon (txt)
- | ೈ፝͜͡📜 ${prefix}fpsmascote (txt)
- | ೈ፝͜͡📜 ${prefix}equipemascote (txt)
- | ೈ፝͜͡📜 ${prefix}txtquadrinhos (txt)
- | ೈ፝͜͡📜 ${prefix}ffavatar (txt)
- | ೈ፝͜͡📜 ${prefix}mascotegame (txt)
- | ೈ፝͜͡📜 ${prefix}angelglx (txt)
- | ೈ፝͜͡📜 ${prefix}gizquadro (txt)
- | ೈ፝͜͡📜 ${prefix}wingeffect (txt)
- | ೈ፝͜͡📜 ${prefix}blackpink (txt)
- | ೈ፝͜͡📜 ${prefix}metalgold (txt)
- | ೈ፝͜͡📜 ${prefix}girlmascote (txt)
- | ೈ፝͜͡📜 ${prefix}logogame (txt)
+ | ೈ፝͜͡📜 ${prefix}googlesg "seu texto/seu texto/seu texto"
+╰════════════════════╮
+ 『 𝐓𝐄𝐗𝐓𝐎 𝐈𝐈 』
+╭════════════════════╯
+ | ೈ፝͜͡📜 ${prefix}gameplay "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}ffbanner "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}avatar "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}marvel "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}glitch "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}stone "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}space "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}pornhub "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}america "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}steel "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}grafity "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}glitch3 "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}thorstyle "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}videogame "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}pubg "seu texto/seu texto"
+ | ೈ፝͜͡📜 ${prefix}glitchtiktok "seu texto/seu texto"
+╰════════════════════╮
+『 𝐓𝐄𝐗𝐓𝐎 𝐈 』
+╭════════════════════╯
+ | ೈ፝͜͡📜 ${prefix}shadow "seu texto"
+ | ೈ፝͜͡📜 ${prefix}angelwing "seu texto"
+ | ೈ፝͜͡📜 ${prefix}efeitoneon "seu texto"
+ | ೈ፝͜͡📜 ${prefix}cemiterio "seu texto"
+ | ೈ፝͜͡📜 ${prefix}metalgold "seu texto"
+ | ೈ፝͜͡📜 ${prefix}narutologo "seu texto"
+ | ೈ፝͜͡📜 ${prefix}fire "seu texto"
+ | ೈ፝͜͡📜 ${prefix}romantic "seu texto"
+ | ೈ፝͜͡📜 ${prefix}smoke "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}papel "seu texto"
+ | ೈ፝͜͡📜 ${prefix}lovemsg "seu texto"
+ | ೈ፝͜͡📜 ${prefix}lovemsg2 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}lovemsg3 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}coffecup "seu texto"
+ | ೈ፝͜͡📜 ${prefix}coffecup2 "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}cup "seu texto"
+ | ೈ፝͜͡📜 ${prefix}florwooden "seu texto"
+ | ೈ፝͜͡📜 ${prefix}madeira "seu texto"
+ | ೈ፝͜͡📜 ${prefix}neon2 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}lobometal "seu texto"
+ | ೈ፝͜͡📜 ${prefix}harryp "seu texto"
+ | ೈ፝͜͡📜 ${prefix}"seu texto"borboleta "seu texto"
+ | ೈ፝͜͡📜 ${prefix}blackpink "seu texto"
+ | ೈ፝͜͡📜 ${prefix}girlmascote "seu texto" 
+ | ೈ፝͜͡📜 ${prefix}logogame "seu texto"
+ | ೈ፝͜͡📜 ${prefix}equipemascote "seu texto"
+ | ೈ፝͜͡📜 ${prefix}fpsmascote "seu texto"
+ | ೈ፝͜͡📜 ${prefix}hackneon "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ffavatar "seu texto"
+ | ೈ፝͜͡📜 ${prefix}mascotegame "seu texto"
+ | ೈ፝͜͡📜 ${prefix}wingeffect "seu texto"
+ | ೈ፝͜͡📜 ${prefix}angelglx "seu texto"
+ | ೈ፝͜͡📜 ${prefix}gizquadro "seu texto"
+ | ೈ፝͜͡📜 ${prefix}"seu texto"quadrinhos "seu texto"
+ | ೈ፝͜͡📜 ${prefix}starballons "seu texto"
+ | ೈ፝͜͡📜 ${prefix}frozen "seu texto"
+ | ೈ፝͜͡📜 ${prefix}3dsilver "seu texto"
+ | ೈ፝͜͡📜 ${prefix}goldtext "seu texto"
+ | ೈ፝͜͡📜 ${prefix}cria "seu texto" 
+ | ೈ፝͜͡📜 ${prefix}anime1 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ff1 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}game "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ff2 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}anime2 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}entardecer "seu texto"
+ | ೈ፝͜͡📜 ${prefix}indian "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ffrose "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ffgren "seu texto"
+ | ೈ፝͜͡📜 ${prefix}chufuyu "seu texto"
+ | ೈ፝͜͡📜 ${prefix}wolf "seu texto"
+ | ೈ፝͜͡📜 ${prefix}dragonred "seu texto"
+ | ೈ፝͜͡📜 ${prefix}purple "seu texto"
+ | ೈ፝͜͡📜 ${prefix}lava "seu texto"
+ | ೈ፝͜͡📜 ${prefix}toxic "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}thunder "seu texto" 
+ | ೈ፝͜͡📜 ${prefix}thunderv2 "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}neongreen "seu texto"	
+ | ೈ፝͜͡📜 ${prefix}neon "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}neon1 "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}neon3d "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}demongreen "seu texto"   
+ | ೈ፝͜͡📜 ${prefix}metalfire "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}rainbow "seu texto"	  
+ | ೈ፝͜͡📜 ${prefix}gelo "seu texto"
+ | ೈ፝͜͡📜 ${prefix}halloween "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}lapis "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}glitch "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}glitch2 "seu texto"   
+ | ೈ፝͜͡📜 ${prefix}3dgold "seu texto" 
+ | ೈ፝͜͡📜 ${prefix}neon3d "seu texto"   
+ | ೈ፝͜͡📜 ${prefix}transformer "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}3dstone "seu texto"
+ | ೈ፝͜͡📜 ${prefix}fiction "seu texto"
+ | ೈ፝͜͡📜 ${prefix}cat"seu texto" "seu texto"
+ | ೈ፝͜͡📜 ${prefix}neondevil "seu texto"
+ | ೈ፝͜͡📜 ${prefix}demonfire "seu texto"
+ | ೈ፝͜͡📜 ${prefix}colaq "seu texto"
+ | ೈ፝͜͡📜 ${prefix}luxury "seu texto"
+ | ೈ፝͜͡📜 ${prefix}berry "seu texto"
+ | ೈ፝͜͡📜 ${prefix}matrix "seu texto"
+ | ೈ፝͜͡📜 ${prefix}horror "seu texto"
+ | ೈ፝͜͡📜 ${prefix}nuvem "seu texto"
+ | ೈ፝͜͡📜 ${prefix}neon3 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}neve "seu texto"
+ | ೈ፝͜͡📜 ${prefix}areia "seu texto"
+ | ೈ፝͜͡📜 ${prefix}vidro "seu texto"
+ | ೈ፝͜͡📜 ${prefix}style "seu texto"
+ | ೈ፝͜͡📜 ${prefix}blood "seu texto"
+ | ೈ፝͜͡📜 ${prefix}pink "seu texto"
+ | ೈ፝͜͡📜 ${prefix}carbon "seu texto"
+ | ೈ፝͜͡📜 ${prefix}metalblue "seu texto" 
+ | ೈ፝͜͡📜 ${prefix}jeans "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}jokerlogo "seu texto"   
+ | ೈ፝͜͡📜 ${prefix}natal "seu texto" 
+ | ೈ፝͜͡📜 ${prefix}ossos "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}asfalto "seu texto"	
+ | ೈ፝͜͡📜 ${prefix}3ddragon "seu texto"
+ | ೈ፝͜͡📜 ${prefix}esmeralda "seu texto"
+ | ೈ፝͜͡📜 ${prefix}break "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}hologram "seu texto"  
+ | ೈ፝͜͡📜 ${prefix}deepsea "seu texto"
+ | ೈ፝͜͡📜 ${prefix}narutologo2 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}watercolor "seu texto"
+ | ೈ፝͜͡📜 ${prefix}1917 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}multicolor "seu texto"
+ | ೈ፝͜͡📜 ${prefix}generator "seu texto"
+ | ೈ፝͜͡📜 ${prefix}naturalleaves "seu texto"
+ | ೈ፝͜͡📜 ${prefix}candycane "seu texto"
+ | ೈ፝͜͡📜 ${prefix}christmas "seu texto"
+ | ೈ፝͜͡📜 ${prefix}merrychristmas "seu texto"
+ | ೈ፝͜͡📜 ${prefix}3ddeep "seu texto"
+ | ೈ፝͜͡📜 ${prefix}drug "seu texto"
+ | ೈ፝͜͡📜 ${prefix}americanflag "seu texto"
+ | ೈ፝͜͡📜 ${prefix}scifi "seu texto"
+ | ೈ፝͜͡📜 ${prefix}wonderful "seu texto"
+ | ೈ፝͜͡📜 ${prefix}holiday "seu texto"
+ | ೈ፝͜͡📜 ${prefix}technology "seu texto"
+ | ೈ፝͜͡📜 ${prefix}winter "seu texto"
+ | ೈ፝͜͡📜 ${prefix}sandsummer "seu texto"
+ | ೈ፝͜͡📜 ${prefix}sandwriting "seu texto"
+ | ೈ፝͜͡📜 ${prefix}sandengraved "seu texto"
+ | ೈ፝͜͡📜 ${prefix}summerysand "seu texto"
+ | ೈ፝͜͡📜 ${prefix}glue "seu texto"
+ | ೈ፝͜͡📜 ${prefix}dark "seu texto"
+ | ೈ፝͜͡📜 ${prefix}galaxystyle "seu texto"
+ | ೈ፝͜͡📜 ${prefix}minion "seu texto"
+ | ೈ፝͜͡📜 ${prefix}horrorgift "seu texto"
+ | ೈ፝͜͡📜 ${prefix}holographic "seu texto"
+ | ೈ፝͜͡📜 ${prefix}deluxe "seu texto"
+ | ೈ፝͜͡📜 ${prefix}glossyblue "seu texto"
+ | ೈ፝͜͡📜 ${prefix}deluxegold "seu texto"
+ | ೈ፝͜͡📜 ${prefix}glossycarbon "seu texto"
+ | ೈ፝͜͡📜 ${prefix}fabric "seu texto"
+ | ೈ፝͜͡📜 ${prefix}neontext "seu texto"
+ | ೈ፝͜͡📜 ${prefix}halloweenfire "seu texto"
+ | ೈ፝͜͡📜 ${prefix}metaldark "seu texto"
+ | ೈ፝͜͡📜 ${prefix}darkgold "seu texto"
+ | ೈ፝͜͡📜 ${prefix}joker "seu texto"
+ | ೈ፝͜͡📜 ${prefix}wicker "seu texto"
+ | ೈ፝͜͡📜 ${prefix}firework "seu texto"
+ | ೈ፝͜͡📜 ${prefix}steeltext "seu texto"
+ | ೈ፝͜͡📜 ${prefix}goldfoil "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ultragloss "seu texto"
+ | ೈ፝͜͡📜 ${prefix}denimtext "seu texto"
+ | ೈ፝͜͡📜 ${prefix}stargreen "seu texto"
+ | ೈ፝͜͡📜 ${prefix}captain "seu texto"
+ | ೈ፝͜͡📜 ${prefix}toxic "seu texto"
+ | ೈ፝͜͡📜 ${prefix}ninjalogo "seu texto"
+ | ೈ፝͜͡📜 ${prefix}rainbowequalizer "seu texto"
+ | ೈ፝͜͡📜 ${prefix}peridot "seu texto"
+ | ೈ፝͜͡📜 ${prefix}rock "seu texto"
+ | ೈ፝͜͡📜 ${prefix}purpleshiny "seu texto"
+ | ೈ፝͜͡📜 ${prefix}robotr2 "seu texto"
+ | ೈ፝͜͡📜 ${prefix}logoneon "seu texto"
+ | ೈ፝͜͡📜 ${prefix}green-horror "seu texto"
+ | ೈ፝͜͡📜 ${prefix}chocolate-cake "seu texto"
+ | ೈ፝͜͡📜 ${prefix}3dboxtext "seu texto"
+ | ೈ፝͜͡📜 ${prefix}strawberry "seu texto"
+ | ೈ፝͜͡📜 ${prefix}sweet-candy "seu texto"
+ | ೈ፝͜͡📜 ${prefix}flower-typography "seu texto"
+ | ೈ፝͜͡📜 ${prefix}berry "seu texto"
+ | ೈ፝͜͡📜 ${prefix}shadow-sky "seu texto"
+ | ೈ፝͜͡📜 ${prefix}magma "seu texto"
+ | ೈ፝͜͡📜 ${prefix}logobear "seu texto"
+ | ೈ፝͜͡📜 ${prefix}illuminated-metallic "seu texto"
+ | ೈ፝͜͡📜 ${prefix}metallic "seu texto"
+ | ೈ፝͜͡📜 ${prefix}harry-potter "seu texto"
+ | ೈ፝͜͡📜 ${prefix}butterfly "seu texto"
+ | ೈ፝͜͡📜 ${prefix}carved-wood "seu texto"
+ | ೈ፝͜͡📜 ${prefix}flaming "seu texto"
+ | ೈ፝͜͡📜 ${prefix}night-sky "seu texto"
+ | ೈ፝͜͡📜 ${prefix}orangejuice "seu texto"
+ | ೈ፝͜͡📜 ${prefix}neonlight "seu texto"
+ | ೈ፝͜͡📜 ${prefix}brilhante "seu texto"
+ | ೈ፝͜͡📜 ${prefix}vietnam "seu texto"
+ | ೈ፝͜͡📜 ${prefix}seta "seu texto"
+ | ೈ፝͜͡📜 ${prefix}grafite "seu texto"
+ | ೈ፝͜͡📜 ${prefix}goldt "seu texto"
+ | ೈ፝͜͡📜 ${prefix}tela "seu texto"
+ | ೈ፝͜͡📜 ${prefix}desfocado "seu texto"    
+
+╰════════════════════╮
+『 𝐕𝐈́𝐃𝐄𝐎 』
+╭════════════════════╯
+ | ೈ፝͜͡📜 ${prefix}pubgv "seu texto"
+ | ೈ፝͜͡📜 ${prefix}natalmsg "seu texto"
+ | ೈ፝͜͡📜 ${prefix}anonovo "seu texto"
+ | ೈ፝͜͡📜 ${prefix}trigrev "seu texto"
 ╰════════════════════╮`
 }
 
