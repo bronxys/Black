@@ -18,13 +18,13 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2"
   },
-  "name": "BLACK FREE VERSION",
+  "name": "ASTA FREE VERSION",
   "description": "<div align=\"center\"> <img src=\"https://telegra.ph/file/fb00d09b7dfbf0b11d364.jpg\" alt=\"BLACK MD - BOT\" width=\"300\" />",
-  "version": "4.2.6",
+  "version": "5.X.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "sh blackmd.sh",
+    "start": "sh astaup.sh",
     "test": "node start.js"
   },
   "keywords": [

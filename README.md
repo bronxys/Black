@@ -9,5 +9,5 @@
 
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-@m4thxyz_-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-4.2.6-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Versão-5.X.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>

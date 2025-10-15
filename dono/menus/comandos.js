@@ -12,6 +12,7 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
 『 𝐌𝐄𝐍𝐔𝐒 』
 ╭══════════════════╯
  | ೈ፝͜͡🎗️ ${prefix}menuadm
+ | ೈ፝͜͡💰 ${prefix}menualuguel
  | ೈ፝͜͡🤪 ${prefix}menuzoeira
  | ೈ፝͜͡❤️‍🔥 ${prefix}menutinder
  | ೈ፝͜͡🎮 ${prefix}menujogos

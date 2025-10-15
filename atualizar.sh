@@ -1,1 +1,1 @@
-sh blackmd.sh
+sh astaup.sh

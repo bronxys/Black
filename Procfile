@@ -1,1 +1,1 @@
-worker: sh blackmd.sh
+worker: sh astaup.sh
